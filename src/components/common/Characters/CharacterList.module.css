@@ -1,0 +1,27 @@
+.characterList {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+.character {
+  margin: 5px;
+  text-decoration: none;
+  color: black;
+}
+.characterElem {
+  margin: 5px;
+  display: flex;
+  flex-direction: column;
+}
+.characterImg {
+  width: 150px;
+  height: 150px;
+}
+.filmList {
+  display: flex;
+  flex-direction: column;
+}
+.characterPage {
+  display: flex;
+  justify-content: space-between;
+}

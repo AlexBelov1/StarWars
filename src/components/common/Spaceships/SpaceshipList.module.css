@@ -1,0 +1,23 @@
+.spaceshipList {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+.spaceship {
+  margin: 5px;
+  text-decoration: none;
+  color: black;
+}
+.spaceshipElem {
+  margin: 5px;
+  display: flex;
+  flex-direction: column;
+}
+.spaceshipImg {
+  width: 150px;
+  height: 150px;
+}
+.spaceshipPage {
+  display: flex;
+  justify-content: space-between;
+}

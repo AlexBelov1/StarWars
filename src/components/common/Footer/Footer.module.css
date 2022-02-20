@@ -1,0 +1,14 @@
+.fullFooter {
+  height: 25vh;
+  margin: 0 auto;
+  padding: auto;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 40px;
+}
+.icoImg {
+  height: 50px;
+  width: 50px;
+}

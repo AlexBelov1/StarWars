@@ -1,0 +1,11 @@
+.header {
+  height: 25vh;
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  margin-bottom: 1vh;
+  box-sizing: border-box;
+}
+.headerImg {
+  height: 25vh;
+}

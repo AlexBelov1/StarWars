@@ -1,0 +1,24 @@
+.filmList {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+.film {
+  margin: 5px;
+  text-decoration: none;
+  color: black;
+}
+.filmElem {
+  margin: 5px;
+  display: flex;
+  flex-direction: column;
+}
+.filmImg {
+  width: 250px;
+  height: 250px;
+}
+
+.filmPage {
+  display: flex;
+  justify-content: space-between;
+}

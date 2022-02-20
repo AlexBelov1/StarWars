@@ -1,0 +1,24 @@
+.planetList {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+.planet {
+  margin: 5px;
+  text-decoration: none;
+  color: black;
+}
+.planetElem {
+  margin: 5px;
+  display: flex;
+  flex-direction: column;
+}
+.planetImg {
+  width: 150px;
+  height: 150px;
+}
+
+.planetPage {
+  display: flex;
+  justify-content: space-between;
+}
